@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bhushan Khopkar</h1>
-<h3 align="justify">I am a student and currently pursuing B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)</h3>
+<h3 align="justify">I am a student and currently pursuing B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning) and also an AI enthusiast passionate to explore more about Machine Learning</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="bhushankhopkarr" />
 </p>
 
 - 🔭 I’m currently working on **Python Development**
-- 🌱 I’m currently learning **Django, Python and JAVA**
+- 🌱 I’m currently learning **Django, Python, JAVA and Machine Learning**
 - 📫 How to reach me: **bhushankhopkar06@gmail.com**
 
 ### Connect with me:
