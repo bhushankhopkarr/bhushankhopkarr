@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Python Development.**
-- 🌱 I’m currently learning **Django, Python, JAVA, React and Machine Learning.**
+- 🌱 I’m currently learning **Django, Python, React and Machine Learning.**
 - 📫 How to reach me: **bhushankhopkar06@gmail.com**
 
 <hr>
