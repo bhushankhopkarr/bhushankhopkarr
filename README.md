@@ -26,14 +26,14 @@
 
 <hr>
 
+<h2 align="left">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankhopkarr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushankhopkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushankhopkarr&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankhopkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+<h2>🔝 Top Contributed Repositories:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushankhopkarr&theme=dracula&hide_border=false&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushankhopkarr&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=bhushankhopkarr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
