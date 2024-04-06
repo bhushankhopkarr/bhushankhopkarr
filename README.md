@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="bhushankhopkarr" />
 </p>
 
-- 🔭 I’m currently working on **Ai Exam Proctoring System.**
+- 🔭 I’m currently working on **AI Exam Proctoring System.**
 - 🌱 I’m currently learning **Python, React and Machine Learning.**
 - 📫 How to reach me: **bhushankhopkar06@gmail.com**
 
