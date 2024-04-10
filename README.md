@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **AI Exam Proctoring System.**
-- 🌱 I’m currently learning **Python, React and Machine Learning.**
+- 🌱 I’m currently learning **Python, JavaScript and Machine Learning.**
 - 📫 How to reach me: **bhushankhopkar06@gmail.com**
 
 ### Connect with me:
