@@ -1,13 +1,13 @@
-<h1 align="center">Hi👋🏻, I'm Bhushan Khopkar</h1>
-<h3 align="justify">I am a student and currently pursuing B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning) and also an AI enthusiast passionate to explore more about Machine Learning.</h3>
+<h1 align="center">Hi there, I'm Bhushan Khopkar 👋🏻</h1>
+<h3 align="center">Student | AI Enthusiast | B.E. Computer Science & Engineering (AI & ML)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="bhushankhopkarr" />
+  <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **AI Exam Proctoring System.**
-- 🌱 I’m currently learning **Python, JavaScript and Machine Learning.**
-- 📫 How to reach me: **bhushankhopkar06@gmail.com**
+<p align="left">🔭 Currently working on: AI Exam Proctoring System</p>
+<p align="left">🌱 Currently learning: Python, JavaScript, Machine Learning</p>
+<p align="left">📫 Reach me at: <a href="mailto:bhushankhopkar06@gmail.com">bhushankhopkar06@gmail.com</a></p>
 
 ### Connect with me:
 <p align="left">
@@ -18,16 +18,29 @@
 </p>
 
 ### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhushankhopkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushankhopkarr&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankhopkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<h2>🔝 Top Contributed Repositories:</h2>
+<h2 align="center">🔝 Top Contributed Repositories:</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=bhushankhopkarr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
