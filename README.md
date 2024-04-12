@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Bhushan Khopkar 👋🏻</h1>
+<h1 align="center">Hi there👋🏻, I'm Bhushan Khopkar </h1>
 <h3 align="center">Student | AI Enthusiast | B.E. Computer Science & Engineering (AI & ML)</h3>
 
 <p align="center">
