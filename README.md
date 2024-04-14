@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="left">🔭 Currently working on: AI Exam Proctoring System</p>
-<p align="left">🌱 Currently learning: Python, JavaScript, Machine Learning</p>
-<p align="left">📫 Reach me at: <a href="mailto:bhushankhopkar06@gmail.com">bhushankhopkar06@gmail.com</a></p>
+<p align="left">-🔭 Currently working on: AI Exam Proctoring System</p>
+<p align="left">- Currently learning: Python, JavaScript, Machine Learning</p>
+<p align="left">-📫 Reach me at: <a href="mailto:bhushankhopkar06@gmail.com">bhushankhopkar06@gmail.com</a></p>
 
 ### Connect with me:
 <p align="left">
