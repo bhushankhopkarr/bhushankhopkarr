@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋🏻, I'm Bhushan Khopkar </h1>
-<h3 align="center">Student | AI Enthusiast | B.E. Computer Science & Engineering (AI & ML)</h3>
+<h3 align="center">AI Enthusiast | Student | B.E. Computer Science & Engineering (AI & ML)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
