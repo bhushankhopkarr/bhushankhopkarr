@@ -33,14 +33,14 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="left">📊 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhushankhopkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushankhopkarr&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankhopkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<h2 align="center">🔝 Top Contributed Repositories:</h2>
+<h2 align="left">🔝 Top Contributed Repositories:</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=bhushankhopkarr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
