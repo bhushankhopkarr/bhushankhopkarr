@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="left">-🔭 Currently working on: Object Detection and Speech Integration</p>
-<p align="left">- Currently learning: Python, JavaScript, and Machine Learning</p>
+<p align="left">-🔭 Currently working on: Poetic Texts</p>
+<p align="left">- Currently learning: Python, and Machine Learning</p>
 <p align="left">-📫 Reach me at: <a href="mailto:bhushankhopkar06@gmail.com">work.bhushankhopkar@gmail.com</a></p>
 
 ### Connect with me:
