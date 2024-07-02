@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">-🔭 Currently working on: -</p>
-<p align="left">- Currently learning: Python, and Machine Learning</p>
+<p align="left">- Currently learning: JavaScript, Python, and Machine Learning</p>
 <p align="left">-📫 Reach me at: <a href="mailto:bhushankhopkar06@gmail.com">work.bhushankhopkar@gmail.com</a></p>
 
 ### Connect with me:
