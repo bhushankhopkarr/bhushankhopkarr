@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=bhushankhopkarr&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-- 🔭 Currently working on: personal portfolio
+- 🔭 Currently working on: personal portfolio and brain tumor detection using deep learning
 - Currently learning: JavaScript, React, Python, and Machine Learning
 - 📫 Reach me at: [work.bhushankhopkar@gmail.com](mailto:bhushankhopkar06@gmail.com)
 
