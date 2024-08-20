@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Currently working on: -
-- Currently learning: JavaScript, Python, and Machine Learning
+- Currently learning: JavaScript, React, Python, and Machine Learning
 - 📫 Reach me at: [work.bhushankhopkar@gmail.com](mailto:bhushankhopkar06@gmail.com)
 
 ### Connect with me:
