@@ -11,7 +11,6 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://instagram.com/bhushankhopkrr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/bhushankhopkarr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/bhushankhopkrr"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
   <a href="https://www.reddit.com/user/Exciting_Lake9781/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" alt="Reddit" /></a>
