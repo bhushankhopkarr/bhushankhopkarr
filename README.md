@@ -58,8 +58,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushankhopkarr&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankhopkarr&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-
-### 🔝 Top Contributed Repositories:
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bhushankhopkarr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
