@@ -1,1 +1,1 @@
-![Portfolio](assets/readme.png)
+![aboutme](assets/readme.png)
